@@ -1,7 +1,8 @@
 # Movement-Joystick-Script
 Copy and Paste Movement Joystick script. If you have any issues, please go to our discord server
 
-```using System.Collections;
+```cs
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
